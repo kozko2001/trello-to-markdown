@@ -1,0 +1,19 @@
+{
+  "name": "trello-to-markdown",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mdast-util-gfm-table": "^0.1.4",
+    "mdast-util-to-markdown": "^0.5.3",
+    "trello": "^0.10.0"
+  }
+}
